@@ -1,10 +1,22 @@
 {
-  "name": "nodebb-theme-quickstart",
+  "name": "nodebb-theme-askavan",
   "version": "0.0.0",
-  "description": "Enter a description here",
+  "description": "A theme for Ask Avan",
   "main": "theme.less",
   "keywords": [
 
   ],
-  "license": "MIT"
+  "license": "MIT",
+  "author": {
+    "name": "Avan Sardar",
+    "email": "avansardar@outlook.com",
+    "url": "https://askavan.com"
+  },
+  "repository": {
+      "type": "git",
+      "url": "https://github.com/mujibsardar/nodebb-theme-quickstart"
+  },
+  "bugs": {
+      "url": "https://github.com/mujibsardar/nodebb-theme-quickstart/issues"
+  }
 }

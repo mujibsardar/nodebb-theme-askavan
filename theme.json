@@ -1,6 +1,6 @@
 {
-    "id": "nodebb-theme-quickstart",
-    "name": "My Theme Name",
-    "description": "Enter a description here",
+    "id": "nodebb-theme-askavan",
+    "name": "Ask Avan Theme",
+    "description": "A theme for Ask Avan",
     "url": "https://github.com/nodebb/nodebb-theme-quickstart"
 }
