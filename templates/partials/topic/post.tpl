@@ -77,11 +77,6 @@
 					<i class="fa fa-thumbs-o-down" aria-hidden="true"></i>
 				</button>
 
-
-
-
-			<a component="post/reply" href="#" class="hidden no-select <!-- IF !privileges.topics:reply -->hidden<!-- ENDIF !privileges.topics:reply -->">[[topic:reply]]</a>
-			<a component="post/quote" href="#" class="hidden no-select <!-- IF !privileges.topics:reply -->hidden<!-- ENDIF !privileges.topics:reply -->">[[topic:quote]]</a>
 		</span>
 
 		<!-- IF !reputation:disabled -->
