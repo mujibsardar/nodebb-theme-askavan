@@ -67,6 +67,7 @@
 				</button>
 
 
+
 				Enough information provided?
 
 				<button name="like_info" id="like_info_button"  class="like">
@@ -75,12 +76,12 @@
 				<button name="dislike_info" id="dislike_info_button" class="dislike">
 					<i class="fa fa-thumbs-o-down" aria-hidden="true"></i>
 				</button>
-		
 
 
 
-			<a component="post/reply" href="#" class="no-select <!-- IF !privileges.topics:reply -->hidden<!-- ENDIF !privileges.topics:reply -->">[[topic:reply]]</a>
-			<a component="post/quote" href="#" class="no-select <!-- IF !privileges.topics:reply -->hidden<!-- ENDIF !privileges.topics:reply -->">[[topic:quote]]</a>
+
+			<!-- <a component="post/reply" href="#" class="no-select <!-- IF !privileges.topics:reply -->hidden<!-- ENDIF !privileges.topics:reply -->">[[topic:reply]]</a> -->
+			<!-- <a component="post/quote" href="#" class="no-select <!-- IF !privileges.topics:reply -->hidden<!-- ENDIF !privileges.topics:reply -->">[[topic:quote]]</a> -->
 		</span>
 
 		<!-- IF !reputation:disabled -->
