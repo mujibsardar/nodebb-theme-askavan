@@ -56,8 +56,8 @@
 	<small class="pull-right">
 		<span class="post-tools">
 
-			<fieldset>
-				<legend>Is the question clear?</legend>
+
+			Is the question clear?
 
 				<button name="like_question" id="like_question_button"  class="like">
 					<i class="fa fa-thumbs-o-up" aria-hidden="true"></i>
@@ -67,7 +67,7 @@
 				</button>
 
 
-				<legend>Enough information provided?</legend>
+				Enough information provided?
 
 				<button name="like_info" id="like_info_button"  class="like">
 					<i class="fa fa-thumbs-o-up" aria-hidden="true"></i>
@@ -75,7 +75,7 @@
 				<button name="dislike_info" id="dislike_info_button" class="dislike">
 					<i class="fa fa-thumbs-o-down" aria-hidden="true"></i>
 				</button>
-		</fieldset>
+		
 
 
 
