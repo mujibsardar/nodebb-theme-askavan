@@ -85,7 +85,7 @@
 		</span>
 
 		<!-- IF !reputation:disabled -->
-		<span class="votes hidden">
+		<span class="votes ">
 			<a component="post/upvote" href="#" class="<!-- IF posts.upvoted -->upvoted<!-- ENDIF posts.upvoted -->">
 				<i class="fa fa-chevron-up"></i>
 			</a>
