@@ -77,10 +77,15 @@
 					<i class="fa fa-thumbs-o-down" aria-hidden="true"></i>
 				</button>
 
+
+
+
+			<a component="post/reply" href="#" class="hidden no-select <!-- IF !privileges.topics:reply -->hidden<!-- ENDIF !privileges.topics:reply -->">[[topic:reply]]</a>
+			<a component="post/quote" href="#" class="hidden no-select <!-- IF !privileges.topics:reply -->hidden<!-- ENDIF !privileges.topics:reply -->">[[topic:quote]]</a>
 		</span>
 
 		<!-- IF !reputation:disabled -->
-		<span class="votes">
+		<span class="votes hidden">
 			<a component="post/upvote" href="#" class="<!-- IF posts.upvoted -->upvoted<!-- ENDIF posts.upvoted -->">
 				<i class="fa fa-chevron-up"></i>
 			</a>
