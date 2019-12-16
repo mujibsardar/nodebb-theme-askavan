@@ -56,15 +56,28 @@
 	<small class="pull-right">
 		<span class="post-tools">
 
-			<label for="dislike">Is the question clear?</label>
-			<button name="dislike" id="dislike_button" class="dislike">
-				<i class="fa fa-thumbs-o-down" aria-hidden="true"></i>
-			</button>
+			<fieldset>
+				<legend>Is the question clear?</legend>
 
-			<label for="like">All information provided?</label>
-			<button name="like" id="like_button"  class="like">
-				<i class="fa fa-thumbs-o-up" aria-hidden="true"></i>
-			</button>
+				<button name="like_question" id="like_question_button"  class="like">
+					<i class="fa fa-thumbs-o-up" aria-hidden="true"></i>
+				</button>
+				<button name="dislike_question" id="dislike_question_button" class="dislike">
+					<i class="fa fa-thumbs-o-down" aria-hidden="true"></i>
+				</button>
+
+
+				<legend>Enough information provided?</legend>
+
+				<button name="like_info" id="like_info_button"  class="like">
+					<i class="fa fa-thumbs-o-up" aria-hidden="true"></i>
+				</button>
+				<button name="dislike_info" id="dislike_info_button" class="dislike">
+					<i class="fa fa-thumbs-o-down" aria-hidden="true"></i>
+				</button>
+		</fieldset>
+
+
 
 			<a component="post/reply" href="#" class="no-select <!-- IF !privileges.topics:reply -->hidden<!-- ENDIF !privileges.topics:reply -->">[[topic:reply]]</a>
 			<a component="post/quote" href="#" class="no-select <!-- IF !privileges.topics:reply -->hidden<!-- ENDIF !privileges.topics:reply -->">[[topic:quote]]</a>
