@@ -58,13 +58,16 @@
 
 
 			How Would You Rate the Quality of This Question?
-
-				<button name="like_question" id="like_question_button"  class="like">
-					<i class="fa fa-thumbs-o-up" aria-hidden="true"></i>
-				</button>
-				<button name="dislike_question" id="dislike_question_button" class="dislike">
-					<i class="fa fa-thumbs-o-down" aria-hidden="true"></i>
-				</button>
+				<a component="post/upvote" href="#" class="like_link">
+					<button name="like_question" id="like_question_button"  class="like">
+						<i class="fa fa-thumbs-o-up" aria-hidden="true"></i>
+					</button>
+				</a>
+				<a component="post/downvote" href="#" class="dislike_link">
+					<button name="dislike_question" id="dislike_question_button" class="dislike">
+						<i class="fa fa-thumbs-o-down" aria-hidden="true"></i>
+					</button>
+				</a>
 
 
 
