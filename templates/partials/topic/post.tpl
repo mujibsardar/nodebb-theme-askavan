@@ -57,7 +57,7 @@
 		<span class="post-tools">
 
 
-			How Would You Rate the Quality of This Question?
+			This question is easy to understand?
 				<a component="post/upvote" href="#" class="like_link">
 					<button name="like_question" id="like_question_button"  class="like">
 						<i class="fa fa-thumbs-o-up" aria-hidden="true"></i>
@@ -125,3 +125,5 @@
 </div>
 
 <hr />
+
+<script src="" charset="utf-8"></script>
