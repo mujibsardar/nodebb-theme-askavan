@@ -57,7 +57,7 @@
 		<span class="post-tools">
 
 
-			Is the question clear?
+			How Would You Rate the Quality of This Question?
 
 				<button name="like_question" id="like_question_button"  class="like">
 					<i class="fa fa-thumbs-o-up" aria-hidden="true"></i>
@@ -68,14 +68,14 @@
 
 
 
-				Enough information provided?
+				<!-- Enough information provided?
 
 				<button name="like_info" id="like_info_button"  class="like">
 					<i class="fa fa-thumbs-o-up" aria-hidden="true"></i>
 				</button>
 				<button name="dislike_info" id="dislike_info_button" class="dislike">
 					<i class="fa fa-thumbs-o-down" aria-hidden="true"></i>
-				</button>
+				</button> -->
 
 
 
