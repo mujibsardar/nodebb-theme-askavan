@@ -57,6 +57,11 @@
 		<span class="post-tools">
 
 
+
+
+
+			<!-- TODO Added voting on question clarity  -->
+
 			This question is easy to understand?
 				<a component="post/upvote" href="#" class="like_link">
 					<button name="like_question" id="like_question_button"  class="like">
@@ -79,6 +84,9 @@
 				<button name="dislike_info" id="dislike_info_button" class="dislike">
 					<i class="fa fa-thumbs-o-down" aria-hidden="true"></i>
 				</button> -->
+
+			<!-- END  voting on question clarity -->
+
 
 
 
