@@ -57,40 +57,6 @@
 		<span class="post-tools">
 
 
-
-
-
-			<!-- TODO Added voting on question clarity  -->
-
-			This question is easy to understand?
-				<a component="post/upvote" href="#" class="like_link">
-					<button name="like_question" id="like_question_button"  class="like">
-						<i class="fa fa-thumbs-o-up" aria-hidden="true"></i>
-					</button>
-				</a>
-				<a component="post/downvote" href="#" class="dislike_link">
-					<button name="dislike_question" id="dislike_question_button" class="dislike">
-						<i class="fa fa-thumbs-o-down" aria-hidden="true"></i>
-					</button>
-				</a>
-
-
-
-				<!-- Enough information provided?
-
-				<button name="like_info" id="like_info_button"  class="like">
-					<i class="fa fa-thumbs-o-up" aria-hidden="true"></i>
-				</button>
-				<button name="dislike_info" id="dislike_info_button" class="dislike">
-					<i class="fa fa-thumbs-o-down" aria-hidden="true"></i>
-				</button> -->
-
-			<!-- END  voting on question clarity -->
-
-
-
-
-
 			<a component="post/reply" href="#" class="hidden no-select <!-- IF !privileges.topics:reply -->hidden<!-- ENDIF !privileges.topics:reply -->">[[topic:reply]]</a>
 			<a component="post/quote" href="#" class="hidden no-select <!-- IF !privileges.topics:reply -->hidden<!-- ENDIF !privileges.topics:reply -->">[[topic:quote]]</a>
 		</span>
