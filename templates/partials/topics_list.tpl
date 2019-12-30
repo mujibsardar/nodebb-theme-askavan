@@ -38,7 +38,7 @@
 				<!-- IF !topics.noAnchor -->
 				<a href="{config.relative_path}/topic/{topics.slug}<!-- IF topics.bookmark -->/{topics.bookmark}<!-- ENDIF topics.bookmark -->" itemprop="url">{topics.title}</a><br />
 				<!-- ELSE -->
-				<span>{topics.title}</span><br />
+				<span>MODIFIED: {topics.title}</span><br />
 				<!-- ENDIF !topics.noAnchor -->
 
 				<!-- IF !template.category -->
