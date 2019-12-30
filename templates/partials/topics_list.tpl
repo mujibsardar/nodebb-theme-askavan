@@ -75,7 +75,7 @@
 		<!--  TODO change from hard coded-->
 		<div class="col-md-1 hidden-sm hidden-xs stats stats-votes">
 			<!-- IF !reputation:disabled -->
-			<span class="human-readable-number" title="Score">{topics.score}</span><br />
+			<span class="human-readable-number" title="{topics.score}">{topics.score}</span><br />
 			<small>Score</small>
 			<!-- END -->
 		</div>
