@@ -73,12 +73,12 @@
 		</div>
 
 		<!--  TODO change from hard coded-->
-		<div class="col-md-1 hidden-sm hidden-xs stats stats-votes">
+		<!-- <div class="col-md-1 hidden-sm hidden-xs stats stats-votes"> -->
 			<!-- IF !reputation:disabled -->
-			<span class="human-readable-number" title="{topics.score}">{topics.score}</span><br />
-			<small>Score</small>
+			<!-- <span class="human-readable-number" title="{topics.score}">{topics.score}</span><br /> -->
+			<!-- <small>Score</small> -->
 			<!-- END -->
-		</div>
+		<!-- </div> -->
 
 		<!-- <div class="col-md-1 hidden-sm hidden-xs stats stats-votes"> -->
 			<!-- IF !reputation:disabled -->
