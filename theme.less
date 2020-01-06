@@ -35,3 +35,94 @@ body {
     border-color: #650d88;
 }
 // END -- Changing theme colors manually
+
+// Add Question Button
+.avan-float {
+  z-index : 1;
+	position:fixed;
+	bottom:40px;
+	right:40px;
+	border-radius:50px;
+	box-shadow: 2px 2px 3px #999;
+}
+.avan-icon-btn {
+  width: 50px;
+  height: 50px;
+  border: 1px solid #ffb606;
+  background-color:#ffb606;
+  border-radius: 25px;
+  overflow: hidden;
+  position: relative;
+  transition: width 0.2s ease-in-out;
+}
+.avan-add-btn:hover {
+  width: 120px;
+}
+.avan-add-btn::before,
+.avan-add-btn::after {
+  transition: width 0.2s ease-in-out, border-radius 0.2s ease-in-out;
+  content: "";
+  position: absolute;
+  height: 4px;
+  width: 10px;
+  top: calc(50% - 2px);
+  background: #650d88;
+}
+.avan-add-btn::after {
+  right: 14px;
+  overflow: hidden;
+  border-top-right-radius: 2px;
+  border-bottom-right-radius: 2px;
+}
+.avan-add-btn::before {
+  left: 14px;
+  border-top-left-radius: 2px;
+  border-bottom-left-radius: 2px;
+}
+.avan-icon-btn:focus {
+  outline: none;
+}
+.avan-btn-txt {
+  opacity: 0;
+  transition: opacity 0.2s;
+}
+.avan-add-btn:hover::before,
+.avan-add-btn:hover::after {
+  width: 4px;
+  border-radius: 2px;
+}
+.avan-add-btn:hover .avan-btn-txt {
+  opacity: 1;
+}
+.avan-add-icon::after,
+.avan-add-icon::before {
+  transition: all 0.2s ease-in-out;
+  content: "";
+  position: absolute;
+  height: 20px;
+  width: 2px;
+  top: calc(50% - 10px);
+  background: #650d88;
+  overflow: hidden;
+}
+.avan-add-icon::before {
+  left: 22px;
+  border-top-left-radius: 2px;
+  border-bottom-left-radius: 2px;
+}
+.avan-add-icon::after {
+  right: 22px;
+  border-top-right-radius: 2px;
+  border-bottom-right-radius: 2px;
+}
+.avan-add-btn:hover .avan-add-icon::before {
+  left: 15px;
+  height: 4px;
+  top: calc(50% - 2px);
+}
+.avan-add-btn:hover .avan-add-icon::after {
+  right: 15px;
+  height: 4px;
+  top: calc(50% - 2px);
+}
+// END -- Add Question Button

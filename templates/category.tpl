@@ -12,8 +12,11 @@
 
 		<div class="clearfix">
 			<!-- IF privileges.topics:create -->
-			<a href="{config.relative_path}/compose?cid={cid}" component="category/post" id="new_topic" class="float" data-ajaxify="false" role="button">
-  			<i class="fa fa-plus my-float"></i>
+			<a href="{config.relative_path}/compose?cid={cid}" component="category/post" id="new_topic" class="avan-float" data-ajaxify="false" role="button">
+				<button class="avan-icon-btn avan-add-btn">
+	    		<div class="avan-add-icon"></div>
+	    		<div class="avan-btn-txt">Ask Question</div>
+  			</button>
 			</a>
 			<!-- <a href="{config.relative_path}/compose?cid={cid}" component="category/post" id="new_topic" class="btn btn-primary" data-ajaxify="false" role="button">New Question</a> -->
 			<!-- ELSE -->
