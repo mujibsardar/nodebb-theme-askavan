@@ -4,8 +4,11 @@
 	[[category:new_topic_button]]
 </label> -->
 <!-- NEW CODE -->
-<a href="{config.relative_path}/compose?cid={cid}" component="category/post" id="new_topic" class="float" data-ajaxify="false" role="button">
-	<i class="fa fa-plus my-float"></i>
+<a href="{config.relative_path}/compose?cid={cid}" component="category/post" id="new_topic" class="avan-float" data-ajaxify="false" role="button">
+	<button class="avan-icon-btn avan-add-btn">
+		<div class="avan-add-icon"></div>
+		<div class="avan-btn-txt">Ask Question</div>
+	</button>
 </a>
 <noscript>
 	<input type="checkbox" class="hidden" id="category-dropdown-check" aria-hidden="true">
