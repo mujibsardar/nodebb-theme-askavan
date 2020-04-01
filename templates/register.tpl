@@ -66,12 +66,15 @@
   <!-- IF alternate_logins -->
   <div class="col-md-6">
     <div class="alt-register-block">
-      <h2>[[register:alternative_registration]]</h2>
-      <ul class="alt-logins">
-        {{{each authentication}}}
-        <li class="{authentication.name}"><a rel="nofollow noopener noreferrer" target="_top" href="{config.relative_path}{authentication.url}"><i class="fa {authentication.icon} fa-3x"></i></i></a></li>
-        {{{end}}}
-      </ul>
+      <div class="sub-alt-register-block">
+        <h2>[[register:alternative_registration]]</h2>
+        <ul class="alt-logins">
+          {{{each authentication}}}
+          <li class="{authentication.name}"><a rel="nofollow noopener noreferrer" target="_top" href="{config.relative_path}{authentication.url}"><i class="fa {authentication.icon} fa-3x"></i></i></a></li>
+          {{{end}}}
+        </ul>
+      </div>
+
     </div>
   </div>
   <!-- ENDIF alternate_logins -->
