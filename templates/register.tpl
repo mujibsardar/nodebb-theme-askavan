@@ -64,7 +64,7 @@
   </div>
 
   <!-- IF alternate_logins -->
-  <div class="col-md-6">
+  <div class="col-md-6 full-width">
     <div class="alt-register-block">
       <div class="sub-alt-register-block">
         <h2>[[register:alternative_registration]]</h2>
