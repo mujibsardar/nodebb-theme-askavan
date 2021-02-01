@@ -4,7 +4,7 @@
 	{{widgets.header.html}}
 	{{{end}}}
 </div>
-<div class="recent"> 
+<div class="recent">
 	<div class="btn-toolbar">
 		<div class="pull-left">
 			<!-- IF canPost -->
@@ -47,3 +47,5 @@
 		<!-- ENDIF config.usePagination -->
 	</div>
 </div>
+
+<img src="https://raw.githubusercontent.com/Team-FCB/Assets/master/Tip-Jar-Burned.png" id="tip-jar">
