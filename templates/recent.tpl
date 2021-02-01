@@ -48,4 +48,4 @@
 	</div>
 </div>
 
-<img src="https://raw.githubusercontent.com/Team-FCB/Assets/master/Tip-Jar-Burned.png" id="tip-jar">
+<a href="https://www.paypal.com/paypalme/avantutor" target="_blank"><img src="https://raw.githubusercontent.com/Team-FCB/Assets/master/Tip-Jar-Burned.png" id="tip-jar"></a>
