@@ -17,11 +17,14 @@
 			</a>
 		</div>
 
+		<!-- Add Bootcamp List Carousel Here? -->
+		<div id="bootcamp-carousel">List of Bootcamps</div>
+
 		<!-- IMPORT partials/category-filter.tpl -->
 
 		<div class="btn-group pull-right bottom-sheet <!-- IF !filters.length -->hidden<!-- ENDIF !filters.length -->">
 			<button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
-			{selectedFilter.name} <span class="caret"></span>
+				{selectedFilter.name} <span class="caret"></span>
 			</button>
 			<ul class="dropdown-menu" role="menu">
 				{{{each filters}}}
@@ -33,7 +36,7 @@
 		</div>
 	</div>
 
-	<hr class="hidden-xs"/>
+	<hr class="hidden-xs" />
 
 	<div class="category">
 		<!-- IF !topics.length -->
@@ -43,7 +46,7 @@
 		<!-- IMPORT partials/topics_list.tpl -->
 
 		<!-- IF config.usePagination -->
-			<!-- IMPORT partials/paginator.tpl -->
+		<!-- IMPORT partials/paginator.tpl -->
 		<!-- ENDIF config.usePagination -->
 	</div>
 </div>
