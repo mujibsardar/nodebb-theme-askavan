@@ -9,14 +9,14 @@
   "license": "MIT",
   "author": {
     "name": "Avan Sardar",
-    "email": "avansardar@outlook.com",
+    "email": "mujibsardar@gmail.com",
     "url": "https://askavan.com"
   },
   "repository": {
       "type": "git",
-      "url": "https://github.com/mujibsardar/nodebb-theme-quickstart"
+      "url": "https://github.com/mujibsardar/nodebb-theme-avan"
   },
   "bugs": {
-      "url": "https://github.com/mujibsardar/nodebb-theme-quickstart/issues"
+      "url": "https://github.com/mujibsardar/nodebb-theme-avan/issues"
   }
 }
