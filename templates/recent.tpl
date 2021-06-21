@@ -18,7 +18,54 @@
 		</div>
 
 		<!-- Add Bootcamp List Carousel Here? -->
-		<div id="bootcamp-carousel">List of Bootcamps</div>
+		<div class="slider-parent">
+			<div class="slider">
+				<div class="slide-track">
+					<div class="slide">
+						<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/1.png" height="100" width="250" alt="" />
+					</div>
+					<div class="slide">
+						<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/2.png" height="100" width="250" alt="" />
+					</div>
+					<div class="slide">
+						<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/3.png" height="100" width="250" alt="" />
+					</div>
+					<div class="slide">
+						<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/4.png" height="100" width="250" alt="" />
+					</div>
+					<div class="slide">
+						<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/5.png" height="100" width="250" alt="" />
+					</div>
+					<div class="slide">
+						<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/6.png" height="100" width="250" alt="" />
+					</div>
+					<div class="slide">
+						<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/7.png" height="100" width="250" alt="" />
+					</div>
+					<div class="slide">
+						<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/1.png" height="100" width="250" alt="" />
+					</div>
+					<div class="slide">
+						<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/2.png" height="100" width="250" alt="" />
+					</div>
+					<div class="slide">
+						<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/3.png" height="100" width="250" alt="" />
+					</div>
+					<div class="slide">
+						<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/4.png" height="100" width="250" alt="" />
+					</div>
+					<div class="slide">
+						<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/5.png" height="100" width="250" alt="" />
+					</div>
+					<div class="slide">
+						<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/6.png" height="100" width="250" alt="" />
+					</div>
+					<div class="slide">
+						<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/7.png" height="100" width="250" alt="" />
+					</div>
+				</div>
+			</div>
+		</div>
 
 		<!-- IMPORT partials/category-filter.tpl -->
 
@@ -51,4 +98,4 @@
 	</div>
 </div>
 
-<a href="https://www.paypal.com/paypalme/avantutor" target="_blank"><img src="https://raw.githubusercontent.com/Team-FCB/Assets/master/Tip-Jar-Burned.png" id="tip-jar"></a>
+<!-- <a href="https://www.paypal.com/paypalme/avantutor" target="_blank"><img src="https://raw.githubusercontent.com/Team-FCB/Assets/master/Tip-Jar-Burned.png" id="tip-jar"></a> -->
