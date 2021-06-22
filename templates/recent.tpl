@@ -22,47 +22,41 @@
 			<div class="slider">
 				<div class="slide-track">
 					<div class="slide">
-						<img src="https://raw.githubusercontent.com/Team-FCB/Assets/master/bootcamp_1.png" height="100" width="250" alt="" />
+						<img src="https://raw.githubusercontent.com/Team-FCB/Assets/master/bootcamp_1.png" height="100" width="250" alt="Hack Reactor Logo" />
 					</div>
 					<div class="slide">
-						<img src="https://raw.githubusercontent.com/Team-FCB/Assets/master/bootcamp_2.png" height="100" width="250" alt="" />
+						<img src="https://raw.githubusercontent.com/Team-FCB/Assets/master/bootcamp_2.png" height="100" width="250" alt="General Assembly Logo" />
 					</div>
 					<div class="slide">
-						<img src="https://raw.githubusercontent.com/Team-FCB/Assets/master/bootcamp_3.png" height="100" width="250" alt="" />
+						<img src="https://raw.githubusercontent.com/Team-FCB/Assets/master/bootcamp_3.png" height="100" width="250" alt="Fullstack Bootcamp" />
 					</div>
 					<div class="slide">
-						<img src="https://raw.githubusercontent.com/Team-FCB/Assets/master/bootcamp_4.png" height="100" width="250" alt="" />
+						<img src="https://raw.githubusercontent.com/Team-FCB/Assets/master/bootcamp_4.png" height="100" width="250" alt="Flat Iron Bootcamp" />
 					</div>
 					<div class="slide">
-						<img src="https://raw.githubusercontent.com/Team-FCB/Assets/master/bootcamp_5.png" height="100" width="250" alt="" />
+						<img src="https://raw.githubusercontent.com/Team-FCB/Assets/master/bootcamp_5.png" height="100" width="250" alt="Code Up Bootcamp" />
 					</div>
 					<div class="slide">
-						<img src="https://raw.githubusercontent.com/Team-FCB/Assets/master/bootcamp_6.png" height="100" width="250" alt="" />
-					</div>
-					<!-- <div class="slide">
-						<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/7.png" height="100" width="250" alt="" />
+						<img src="https://raw.githubusercontent.com/Team-FCB/Assets/master/bootcamp_6.png" height="100" width="250" alt="Nucamp Bootcamp" />
 					</div>
 					<div class="slide">
-						<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/1.png" height="100" width="250" alt="" />
+						<img src="https://raw.githubusercontent.com/Team-FCB/Assets/master/bootcamp_1.png" height="100" width="250" alt="Hack Reactor Logo" />
 					</div>
 					<div class="slide">
-						<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/2.png" height="100" width="250" alt="" />
+						<img src="https://raw.githubusercontent.com/Team-FCB/Assets/master/bootcamp_2.png" height="100" width="250" alt="General Assembly Logo" />
 					</div>
 					<div class="slide">
-						<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/3.png" height="100" width="250" alt="" />
+						<img src="https://raw.githubusercontent.com/Team-FCB/Assets/master/bootcamp_3.png" height="100" width="250" alt="Fullstack Bootcamp" />
 					</div>
 					<div class="slide">
-						<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/4.png" height="100" width="250" alt="" />
+						<img src="https://raw.githubusercontent.com/Team-FCB/Assets/master/bootcamp_4.png" height="100" width="250" alt="Flat Iron Bootcamp" />
 					</div>
 					<div class="slide">
-						<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/5.png" height="100" width="250" alt="" />
+						<img src="https://raw.githubusercontent.com/Team-FCB/Assets/master/bootcamp_5.png" height="100" width="250" alt="Code Up Bootcamp" />
 					</div>
 					<div class="slide">
-						<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/6.png" height="100" width="250" alt="" />
+						<img src="https://raw.githubusercontent.com/Team-FCB/Assets/master/bootcamp_6.png" height="100" width="250" alt="Nucamp Bootcamp" />
 					</div>
-					<div class="slide">
-						<img src="https://s3-us-west-2.amazonaws.com/s.cdpn.io/557257/7.png" height="100" width="250" alt="" />
-					</div> -->
 				</div>
 			</div>
 		</div>
